@@ -25,11 +25,6 @@ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=highlvmami&color=blue)
 ---
 
-## 🛠️ Technologies
-
-![Flutter](...)
-![Dart](...)
-![JavaScript](...)
 
 ## 🛠️ Technologies I Use
 
