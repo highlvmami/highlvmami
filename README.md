@@ -1,77 +1,74 @@
-# 👋 Merhaba, ben Muhammet (Mami)
+# 👋 Hi, I'm Muhammet (Mami)
 
-🎓 Yazılım Mühendisliği 2.sınıf öğrencisiyim  
-💻 Çeşitli yazılım alanlarında kendimi geliştiriyorum  
-🚀 Amacım; çok alanda global projeler üreten bir geliştirici olmak  
-
----
-
-## 🧠 Hakkımda
-
-- 📍 İstanbul / Türkiye
-- 🎓 Üniversite: Yazılım Mühendisliği 2. sınıf
-- 📱 Mobil uygulama geliştirmeye ilgim var
-- 🧩 Problem çözmeyi ve proje üretmeyi seviyorum
-- 📈 Sürekli öğrenmeye ve kendimi geliştirmeye odaklıyım
+🎓 I'm a 2nd-year Software Engineering student  
+💻 I'm improving myself in various areas of software development  
+🚀 My goal is to become a developer who builds global projects in multiple fields  
 
 ---
 
-## 🛠️ Kullandığım Teknolojiler
+## 🧠 About Me
 
-### 📱 Mobil
+- 📍 Istanbul / Türkiye
+- 🎓 University: Software Engineering 2nd year
+- 📱 I'm interested in mobile and web development
+- 🧩 I enjoy problem solving and building projects
+- 📈 I am focused on continuous learning and self-improvement
+
+---
+
+## 🛠️ Technologies I Use
+
+### 📱 Mobile
 - Flutter (Dart)
-- Kotlin (öğrenme aşamasında)
+- Kotlin (in learning process)
 
 ### 🌐 Web / Backend
 - HTML / CSS / JavaScript
-- Node.js (öğreniyorum)
+- Node.js (learning)
 
-### 🗄️ Veritabanı
+### 🗄️ Database
 - Firebase
 - SQL
 
-### ⚙️ Araçlar
+### ⚙️ Tools
 - Git & GitHub
 - VS Code
 - Android Studio
-  
+
 ---
 
-## 🚀 Projelerim
+## 🚀 My Projects
 
-> Henüz gelişim aşamasındayım ama aktif olarak proje üretiyorum
+> I'm still in development phase but actively building projects
 
 ### 🧩 Wordle Clone (Flutter)
-- Yakında yayımlanacak
+- Coming soon
 
 ### 📝 Todo App
-- Yakında yayımlanacak
+- Coming soon
 
 ### 🌦️ Weather App
-- Yakında yayımlanacak
+- Coming soon
 
 ---
 
+## 🎯 My Goals
 
-## 🎯 Hedeflerim
-
-- 📱 Kendi mobil uygulamalarımı yayınlamak
-- 🏢 Staj / junior developer pozisyonu almak
-- 🚀 Gerçek kullanıcıların kullandığı projeler üretmek
-- 💡 Çeşitli yazılım alanlarında uzmanlaşmak
+- 📱 Publish my own mobile applications
+- 🏢 Get an internship / junior developer position
+- 🚀 Build real-world applications used by real users
+- 💡 Specialize in different areas of software development
 
 ---
 
-## 📫 Bana Ulaşmak istersen
+## 📫 Contact Me
 
 - 📧 Email: muhammetorucoglugfb@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammet-oruçoğlu
-- 🐙 instagram: https://www.instagram.com/highlvmami  
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammet-oruçoğlu  
+- 🐙 Instagram: https://www.instagram.com/highlvmami  
 
 ---
 
-## ⚡ Motivasyonum
+## ⚡ My Motivation
 
-> “Bir şeyleri öğrenmek değil, üretmek beni geliştirir.”
-
----
+> “What makes me better is not learning things, but building things.”
