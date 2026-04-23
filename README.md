@@ -19,8 +19,11 @@
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=highlvmami&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=highlvmami&layout=compact&theme=tokyonight)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=highlvmami&theme=tokyonight)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=highlvmami&color=blue)
 
 ---
