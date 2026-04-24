@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Muhammet (Mami)
 
-🎓 I'm a 2nd-year Software Engineering student  
-💻 I'm improving myself in various areas of software development  
-🚀 My goal is to become a developer who builds global projects in multiple fields  
+I'm a 2nd-year Software Engineering student  
+I'm improving myself in various areas of software development  
+My goal is to become a developer who builds global projects in multiple fields  
 
 ---
 
 ## 🧠 About Me
 
-- 📍 Istanbul / Türkiye
-- 🎓 University: Software Engineering 2nd year
-- 📱 I'm interested in mobile and web development
-- 🧩 I enjoy problem solving and building projects
-- 📈 I am focused on continuous learning and self-improvement
+-  Istanbul / Türkiye
+-  University: Software Engineering 2nd year
+-  I'm interested in mobile and web development
+-  I enjoy problem solving and building projects
+-  I am focused on continuous learning and self-improvement
 
 ---
 
@@ -51,23 +51,23 @@ Profile Views
 
 > I'm still in development phase but actively building projects
 
-### 🧩 Wordle Clone (Flutter)
+### Wordle Clone (Flutter)
 - Coming soon
 
-### 📝 Todo App
+### Todo App
 - Coming soon
 
-### 🌦️ Weather App
+### Weather App
 - Coming soon
 
 ---
 
 ## 🎯 My Goals
 
-- 📱 Publish my own mobile applications
-- 🏢 Get an internship / junior developer position
-- 🚀 Build real-world applications used by real users
-- 💡 Specialize in different areas of software development
+-  Publish my own mobile applications
+-  Get an internship / junior developer position
+-  Build real-world applications used by real users
+-  Specialize in different areas of software development
 
 ---
 
