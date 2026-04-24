@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammet (Mami)
+#  Hi, I'm Muhammet (Mami)
 
 I'm a 2nd-year Software Engineering student  
 I'm improving myself in various areas of software development  
@@ -6,7 +6,7 @@ My goal is to become a developer who builds global projects in multiple fields
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 -  Istanbul / Türkiye
 -  University: Software Engineering 2nd year
@@ -28,19 +28,19 @@ Profile Views
 
 ## 🛠️ Technologies I Use
 
-### 📱 Mobile
+###  Mobile
 - Flutter (Dart)
 - Kotlin (in learning process)
 
-### 🌐 Web / Backend
+###  Web / Backend
 - HTML / CSS / JavaScript
 - Node.js (learning)
 
-### 🗄️ Database
+###  Database
 - Firebase
 - SQL
 
-### ⚙️ Tools
+###  Tools
 - Git & GitHub
 - VS Code
 - Android Studio
