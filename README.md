@@ -16,12 +16,6 @@ My goal is to become a developer who builds global projects in multiple fields
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=highlvmami&show_icons=true&theme=tokyonight)!
-[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=highlvmami&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=highlvmami&layout=compact&theme=tokyonight)  
-
 Profile Views  
 ![Profile Views](https://komarev.com/ghpvc/?username=highlvmami&color=blue)
 ---
