@@ -1,6 +1,6 @@
 #  Hi, I'm Muhammet (Mami)
 
-I'm a 2nd-year Software Engineering student  
+I'm a 3rd-year Software Engineering student  
 I'm improving myself in various areas of software development  
 My goal is to become a developer who builds global projects in multiple fields  
 
