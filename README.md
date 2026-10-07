@@ -15,13 +15,13 @@
 
 ## 🙋 About Me
 
-- 📍 Istanbul, Türkiye
-- 🎓 3rd-year Software Engineering student
-- 📱 Into mobile and web development, and lately game development
-- 🧩 I enjoy solving problems and turning ideas into real projects
-- 📈 Always learning and improving
+-  Istanbul, Türkiye
+-  3rd-year Software Engineering student
+-  Into mobile and web development, and lately game development
+-  I enjoy solving problems and turning ideas into real projects
+-  Always learning and improving
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
