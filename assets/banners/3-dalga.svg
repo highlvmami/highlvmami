@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF8A1F"/><stop offset="0.55" stop-color="#e2557a"/><stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="300" fill="url(#g)"/>
+    <path d="M0 230 C200 190 400 270 600 235 S1000 190 1200 225 V300 H0Z" fill="#ffffff" fill-opacity="0.12"/>
+    <path d="M0 260 C250 225 450 295 700 262 S1050 230 1200 255 V300 H0Z" fill="#ffffff" fill-opacity="0.16"/>
+    <circle cx="140" cy="40" r="90" fill="#ffffff" fill-opacity="0.07"/>
+    <circle cx="1100" cy="60" r="120" fill="#ffffff" fill-opacity="0.06"/>
+  </g>
+  <text x="600" y="128" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="60" font-weight="800" fill="#ffffff">Muhammet Oruçoğlu</text>
+  <text x="600" y="172" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" font-weight="500" fill="#ffffff" fill-opacity="0.92">Software Engineering Student · Full-Stack Developer</text>
+  <text x="600" y="204" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#ffffff" fill-opacity="0.75">Istanbul, Türkiye · Building the Lumora ecosystem</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <radialGradient id="glow" cx="0.85" cy="0.3" r="0.6"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.45"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+    <radialGradient id="glow2" cx="0.1" cy="1" r="0.5"><stop offset="0" stop-color="#FF8A1F" stop-opacity="0.35"/><stop offset="1" stop-color="#FF8A1F" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="#09090b"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glow2)"/>
+  <g fill="#ffffff" fill-opacity="0.5"><circle cx="300" cy="40" r="1.5"/><circle cx="520" cy="70" r="1"/><circle cx="700" cy="30" r="1.5"/><circle cx="880" cy="250" r="1"/><circle cx="1040" cy="270" r="1.5"/><circle cx="640" cy="260" r="1"/><circle cx="1150" cy="40" r="1"/></g>
+  <text x="1010" y="190" text-anchor="middle" font-family="Consolas, Menlo, Monaco, monospace" font-size="150" font-weight="700" fill="#ffffff" fill-opacity="0.07">&lt;/&gt;</text>
+  <text x="80" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="800" fill="#fafafa">Muhammet Oruçoğlu</text>
+  <text x="82" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#a1a1aa">Software Engineering Student · Full-Stack Developer · Istanbul</text>
+  <g font-family="Consolas, Menlo, Monaco, monospace" font-size="15">
+    <rect x="82" y="196" width="78" height="32" rx="8" fill="#ffffff" fill-opacity="0.06" stroke="#3f3f46"/><text x="121" y="217" text-anchor="middle" fill="#fdba74">Web</text>
+    <rect x="170" y="196" width="120" height="32" rx="8" fill="#ffffff" fill-opacity="0.06" stroke="#3f3f46"/><text x="230" y="217" text-anchor="middle" fill="#fdba74">Real-time</text>
+    <rect x="300" y="196" width="100" height="32" rx="8" fill="#ffffff" fill-opacity="0.06" stroke="#3f3f46"/><text x="350" y="217" text-anchor="middle" fill="#fdba74">Desktop</text>
+    <rect x="410" y="196" width="86" height="32" rx="8" fill="#ffffff" fill-opacity="0.06" stroke="#3f3f46"/><text x="453" y="217" text-anchor="middle" fill="#fdba74">Games</text>
+  </g>
+</svg>
