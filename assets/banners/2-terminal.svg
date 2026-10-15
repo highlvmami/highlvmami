@@ -6,7 +6,7 @@
   <text x="600" y="57" text-anchor="middle" font-family="Consolas, Menlo, Monaco, monospace" font-size="15" fill="#8b949e">mami@lumora: ~</text>
   <g font-family="Consolas, Menlo, Monaco, monospace" font-size="22">
     <text x="72" y="116"><tspan fill="#FF8A1F">$</tspan><tspan fill="#c9d1d9"> whoami</tspan></text>
-    <text x="72" y="150" font-size="38" font-weight="700" fill="#ffffff">Muhammet Oruçoğlu</text>
+    <text x="72" y="160" font-size="38" font-weight="700" fill="#ffffff">Muhammet Oruçoğlu</text>
     <text x="72" y="194"><tspan fill="#FF8A1F">$</tspan><tspan fill="#c9d1d9"> cat role.txt</tspan></text>
     <text x="72" y="226" fill="#7ee787">Software Engineering Student · Full-Stack Developer</text>
     <text x="72" y="258"><tspan fill="#FF8A1F">$</tspan><tspan fill="#c9d1d9"> </tspan></text>
