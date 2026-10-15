@@ -14,3 +14,14 @@
 
 ### 5. Gece
 <img src="assets/banners/5-gece.svg" width="100%" />
+
+## Terminal varyasyonları
+
+### 2a. Merhaba
+<img src="assets/banners/2a-terminal-hello.svg" width="100%" />
+
+### 2b. Bilgi kartı
+<img src="assets/banners/2b-terminal-info.svg" width="100%" />
+
+### 2c. Build
+<img src="assets/banners/2c-terminal-build.svg" width="100%" />

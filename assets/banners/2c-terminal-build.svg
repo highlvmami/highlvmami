@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" rx="18" fill="#0d1117"/>
+  <rect x="40" y="30" width="1120" height="240" rx="12" fill="#161b22" stroke="#30363d"/>
+  <path d="M40 72H1160" stroke="#30363d"/>
+  <circle cx="68" cy="51" r="7" fill="#ff5f56"/><circle cx="92" cy="51" r="7" fill="#ffbd2e"/><circle cx="116" cy="51" r="7" fill="#27c93f"/>
+  <text x="600" y="57" text-anchor="middle" font-family="Consolas, Menlo, Monaco, monospace" font-size="15" fill="#8b949e">lumora — zsh</text>
+  <g font-family="Consolas, Menlo, Monaco, monospace" font-size="22">
+    <text x="72" y="110"><tspan fill="#FF8A1F">❯</tspan><tspan fill="#c9d1d9"> npm run build</tspan><tspan fill="#8b949e"> -- --profile</tspan></text>
+    <text x="72" y="140" font-size="18" fill="#8b949e">✓ compiled in 0.42s</text>
+    <text x="72" y="186" font-size="40" font-weight="700" fill="#ffffff">Muhammet Oruçoğlu</text>
+    <text x="72" y="222" fill="#7ee787">✓ <tspan fill="#c9d1d9">Software Engineering Student · Full-Stack Developer</tspan></text>
+    <text x="72" y="252" fill="#7ee787">✓ <tspan fill="#c9d1d9">Deployed to </tspan><tspan fill="#58a6ff">lumorahub.pages.dev</tspan></text>
+  </g>
+</svg>

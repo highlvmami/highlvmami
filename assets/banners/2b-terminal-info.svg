@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <rect width="1200" height="300" rx="18" fill="#0d1117"/>
+  <rect x="40" y="30" width="1120" height="240" rx="12" fill="#161b22" stroke="#30363d"/>
+  <path d="M40 72H1160" stroke="#30363d"/>
+  <circle cx="68" cy="51" r="7" fill="#ff5f56"/><circle cx="92" cy="51" r="7" fill="#ffbd2e"/><circle cx="116" cy="51" r="7" fill="#27c93f"/>
+  <text x="600" y="57" text-anchor="middle" font-family="Consolas, Menlo, Monaco, monospace" font-size="15" fill="#8b949e">mami@lumora</text>
+  <g font-family="Consolas, Menlo, Monaco, monospace" font-size="22">
+    <text x="72" y="112"><tspan fill="#FF8A1F">❯</tspan><tspan fill="#c9d1d9"> lumora --info</tspan></text>
+  </g>
+  <g font-family="Consolas, Menlo, Monaco, monospace" font-weight="700" fill="#FF8A1F">
+    <rect x="104" y="128" width="120" height="120" rx="24" fill="#FF8A1F" fill-opacity="0.12" stroke="#FF8A1F" stroke-width="2"/>
+    <path d="M140 156 h20 v52 h38 v18 h-58z" fill="#FF8A1F"/>
+  </g>
+  <g font-family="Consolas, Menlo, Monaco, monospace" font-size="20">
+    <text x="320" y="146" font-size="30" font-weight="700" fill="#ffffff">Muhammet Oruçoğlu</text>
+    <path d="M320 160 H760" stroke="#30363d"/>
+    <text x="320" y="190"><tspan fill="#FF8A1F">Role     </tspan><tspan fill="#c9d1d9">Software Engineering Student · Full-Stack Dev</tspan></text>
+    <text x="320" y="218"><tspan fill="#FF8A1F">Location </tspan><tspan fill="#c9d1d9">Istanbul, Türkiye</tspan></text>
+    <text x="320" y="246"><tspan fill="#FF8A1F">Focus    </tspan><tspan fill="#c9d1d9">Web · Real-time · Desktop · Games</tspan></text>
+  </g>
+  <g>
+    <rect x="1000" y="140" width="22" height="22" fill="#ff5f56"/><rect x="1026" y="140" width="22" height="22" fill="#ffbd2e"/><rect x="1052" y="140" width="22" height="22" fill="#27c93f"/><rect x="1078" y="140" width="22" height="22" fill="#FF8A1F"/>
+    <rect x="1000" y="166" width="22" height="22" fill="#58a6ff"/><rect x="1026" y="166" width="22" height="22" fill="#bc8cff"/><rect x="1052" y="166" width="22" height="22" fill="#39c5cf"/><rect x="1078" y="166" width="22" height="22" fill="#c9d1d9"/>
+  </g>
+</svg>
