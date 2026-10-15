@@ -7,7 +7,7 @@
   <g font-family="Consolas, Menlo, Monaco, monospace" font-size="22">
     <text x="72" y="114"><tspan fill="#FF8A1F">❯</tspan><tspan fill="#c9d1d9"> ./hello.sh</tspan></text>
     <text x="72" y="162" font-size="40" font-weight="700" fill="#ffffff">Hi, I'm Muhammet Oruçoğlu</text>
-    <text x="72" y="200" fill="#7ee787">Software Engineering Student · Full-Stack Developer</text>
+    <text x="72" y="200" fill="#7ee787">Software Developer · Software Engineering Student</text>
     <text x="72" y="232" fill="#8b949e">Istanbul, Türkiye · Building the Lumora ecosystem</text>
     <text x="72" y="262"><tspan fill="#FF8A1F">❯</tspan></text>
     <rect x="100" y="244" width="12" height="22" fill="#c9d1d9"><animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></rect>

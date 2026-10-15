@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Hi, I'm Muhammet Oruçoğlu, Software Engineering Student and Full-Stack Developer" width="100%" />
+  <img src="assets/banner.svg" alt="Hi, I'm Muhammet Oruçoğlu, Software Developer and Software Engineering Student" width="100%" />
 </p>
 
 <p align="center">
