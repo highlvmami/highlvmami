@@ -1,56 +1,59 @@
-<h1 align="center">Muhammet Oruçoğlu</h1>
+# Hi, I'm Muhammet
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=FF8A1F&center=true&vCenter=true&width=520&lines=Software+Engineering+Student;Full-Stack+Developer;Building+the+Lumora+ecosystem" alt="Software Engineering Student, Full-Stack Developer" />
-</p>
+**Software Engineering student and full-stack developer from Istanbul.**
+I design, build and ship open-source web apps, desktop tools and games under the **Lumora** name.
 
-<p align="center">
-  <a href="https://lumorahub.pages.dev"><img src="https://img.shields.io/badge/Website-lumorahub.pages.dev-FF8A1F?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Website" /></a>
-  <a href="https://lumorahub.pages.dev/en/cv/"><img src="https://img.shields.io/badge/CV-View-0A0A0A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
-  <a href="https://www.linkedin.com/in/muhammet-oru%C3%A7o%C4%9Flu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:muhammetorucoglugfb@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+[![Website](https://img.shields.io/badge/lumorahub.pages.dev-FF8A1F?style=flat-square&logo=cloudflarepages&logoColor=white)](https://lumorahub.pages.dev)
+[![CV](https://img.shields.io/badge/CV-111111?style=flat-square&logo=readdotcv&logoColor=white)](https://lumorahub.pages.dev/en/cv/)
+[![Blog](https://img.shields.io/badge/Blog-444444?style=flat-square&logo=rss&logoColor=white)](https://lumorahub.pages.dev/en/blog/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammet-oru%C3%A7o%C4%9Flu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammetorucoglugfb@gmail.com)
 
 ---
 
-### About me
+### Right now
 
-I'm a 3rd-year Software Engineering student from Istanbul who likes taking an idea all the way to a product people can use: designing it, writing the backend and frontend, deploying it and keeping it running. Everything I build lives under the **Lumora** name and is collected on [lumorahub.pages.dev](https://lumorahub.pages.dev).
+- Studying Software Engineering (3rd year) in Istanbul
+- Building and maintaining the Lumora apps, from backend to deployment
+- Open to **internship** and **junior developer** roles
 
-| | |
-| --- | --- |
-| **Based in** | Istanbul, Türkiye |
-| **Studying** | Software Engineering, 3rd year |
-| **Focus** | Full-stack web, real-time apps, desktop tools, game development |
-| **Open to** | Internships and junior developer roles |
+### How I like to work
 
-### What I work on
+I take ideas all the way to something people can actually use. That means writing the API and the interface, setting up the database, automating builds with CI, deploying, and keeping things running after launch. You can see the results on the [projects page](https://lumorahub.pages.dev/en/projects/).
 
-<table>
-  <tr>
-    <td width="50%" valign="top"><b>Full-stack web apps</b><br>Node.js, Next.js and SvelteKit, backed by PostgreSQL or SQLite.</td>
-    <td width="50%" valign="top"><b>Real-time systems</b><br>Go and WebSockets: live cursors, shared rooms, multiplayer sync.</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><b>Windows desktop tools</b><br>Python and C# / .NET, shipped as installers with auto-updates.</td>
-    <td width="50%" valign="top"><b>Games</b><br>Godot, from gameplay systems to an online co-op server.</td>
-  </tr>
-</table>
+### Toolbox
 
-See all projects, screenshots and write-ups on the [projects page](https://lumorahub.pages.dev/en/projects/).
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-### Tech stack
+**Web and backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,go,cs,dart,html,css&perline=8" alt="Languages" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,svelte,tailwind,dotnet,flutter&perline=8" alt="Frameworks" /><br>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,prisma,firebase,docker,git,githubactions,godot&perline=8" alt="Data and tools" />
-</p>
+**Desktop, mobile and games**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin_(learning)-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
-### Blog
-
-Notes on what I build and learn: [lumorahub.pages.dev/en/blog](https://lumorahub.pages.dev/en/blog/)
+**Data and tooling**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-<p align="center"><i>“What makes me better is not learning things, but building things.”</i></p>
+<sub>“What makes me better is not learning things, but building things.”</sub>
