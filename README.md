@@ -15,36 +15,39 @@
 
 ### About me
 
-```ts
-const muhammet = {
-  location: "Istanbul, Türkiye",
-  education: "Software Engineering, 3rd year",
-  focus: ["Full-stack web", "Real-time apps", "Desktop tools", "Game development"],
-  building: "Lumora, a family of open-source apps and games",
-  openTo: ["Internships", "Junior developer roles"],
-};
-```
+I'm a 3rd-year Software Engineering student from Istanbul who likes taking an idea all the way to a product people can use: designing it, writing the backend and frontend, deploying it and keeping it running. Everything I build lives under the **Lumora** name and is collected on [lumorahub.pages.dev](https://lumorahub.pages.dev).
 
-I like taking an idea all the way to a product people can use: designing it, writing the backend and frontend, deploying it and keeping it running. Everything I build lives under the **Lumora** name and is collected on [lumorahub.pages.dev](https://lumorahub.pages.dev).
+| | |
+| --- | --- |
+| **Based in** | Istanbul, Türkiye |
+| **Studying** | Software Engineering, 3rd year |
+| **Focus** | Full-stack web, real-time apps, desktop tools, game development |
+| **Open to** | Internships and junior developer roles |
 
 ### What I work on
 
-- **Full-stack web apps** with Node.js, Next.js and SvelteKit, backed by PostgreSQL or SQLite
-- **Real-time systems** with Go and WebSockets: live cursors, shared rooms, multiplayer sync
-- **Windows desktop tools** in Python and C# / .NET, shipped as installers with auto-updates
-- **Games** in Godot, from gameplay systems to an online co-op server
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>Full-stack web apps</b><br>Node.js, Next.js and SvelteKit, backed by PostgreSQL or SQLite.</td>
+    <td width="50%" valign="top"><b>Real-time systems</b><br>Go and WebSockets: live cursors, shared rooms, multiplayer sync.</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b>Windows desktop tools</b><br>Python and C# / .NET, shipped as installers with auto-updates.</td>
+    <td width="50%" valign="top"><b>Games</b><br>Godot, from gameplay systems to an online co-op server.</td>
+  </tr>
+</table>
 
 See all projects, screenshots and write-ups on the [projects page](https://lumorahub.pages.dev/en/projects/).
 
 ### Tech stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,go,cs,dart,html,css&perline=8" alt="Languages" /><br>
   <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,react,svelte,tailwind,dotnet,flutter&perline=8" alt="Frameworks" /><br>
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,prisma,firebase,docker,git,githubactions,godot&perline=8" alt="Data and tools" />
 </p>
 
-### Latest from the blog
+### Blog
 
 Notes on what I build and learn: [lumorahub.pages.dev/en/blog](https://lumorahub.pages.dev/en/blog/)
 
