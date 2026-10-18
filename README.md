@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://lumora.is-a.dev"><img src="https://img.shields.io/badge/Website-lumora.is--a.dev-FF8A1F?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Website" /></a>
+  
   <a href="https://lumora.is-a.dev/en/cv/"><img src="https://img.shields.io/badge/CV-View-161B22?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
   <a href="https://lumora.is-a.dev/en/blog/"><img src="https://img.shields.io/badge/Blog-Read-161B22?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
   <a href="https://www.linkedin.com/in/muhammet-oru%C3%A7o%C4%9Flu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
