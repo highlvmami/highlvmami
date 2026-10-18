@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://lumorahub.pages.dev"><img src="https://img.shields.io/badge/Website-lumorahub.pages.dev-FF8A1F?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Website" /></a>
-  <a href="https://lumorahub.pages.dev/en/cv/"><img src="https://img.shields.io/badge/CV-View-161B22?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
-  <a href="https://lumorahub.pages.dev/en/blog/"><img src="https://img.shields.io/badge/Blog-Read-161B22?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
+  <a href="https://lumora.is-a.dev"><img src="https://img.shields.io/badge/Website-lumora.is--a.dev-FF8A1F?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Website" /></a>
+  <a href="https://lumora.is-a.dev/en/cv/"><img src="https://img.shields.io/badge/CV-View-161B22?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV" /></a>
+  <a href="https://lumora.is-a.dev/en/blog/"><img src="https://img.shields.io/badge/Blog-Read-161B22?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" /></a>
   <a href="https://www.linkedin.com/in/muhammet-oru%C3%A7o%C4%9Flu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:muhammetorucoglugfb@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -52,7 +52,7 @@ I'm a 3rd-year Software Engineering student in Istanbul. I build complete produc
 
 ## Projects
 
-All my projects, with screenshots, live demos and downloads, are on the **[Lumora projects page](https://lumorahub.pages.dev/en/projects/)**.
+All my projects, with screenshots, live demos and downloads, are on the **[Lumora projects page](https://lumora.is-a.dev/en/projects/)**.
 
 ---
 
